@@ -1,0 +1,15 @@
+{
+  "name": "execute_mysql_in_all_dbs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "mohamed aashik",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
